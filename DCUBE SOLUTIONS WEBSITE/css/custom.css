@@ -1,0 +1,48 @@
+.gallery-element
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 120px;
+}
+.gallery-img
+{
+    padding-bottom: 10px; 
+}
+.gallery-caption
+{
+    line-height: 27px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    color: #152732;
+}
+.gallery-title-quote
+{
+    line-height: 27px;
+    font-size: 1em;
+    color: #152732;
+    padding-bottom: 20px;
+}
+.gallery-div
+{
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
+
+@media screen and (max-width:1366px)
+{
+    .gallery-element
+    {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 120px;
+    }
+}
+@media screen and (max-width:1366px)
+{
+    .gallery-element
+    {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 50px;
+    }
+}
